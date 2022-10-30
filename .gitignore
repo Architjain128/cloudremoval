@@ -1,3 +1,7 @@
 dataset/chromedriver*
 dataset/*.log
+dataset/logFiles
+dataset/htmlFiles
+dataset/cropedpngFiles
+dataset/uncropedpngFiles
 *.log
